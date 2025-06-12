@@ -108,11 +108,6 @@ We welcome contributions! To contribute:
 4. Push to your branch
 5. Open a Pull Request
 
-## 👥 Authors
-
-- Your Name
-- Contributors
-
 ## 🙏 Acknowledgments
 
 - Google Generative AI team for Gemini
